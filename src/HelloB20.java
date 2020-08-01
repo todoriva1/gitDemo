@@ -4,5 +4,6 @@ public class HelloB20 {
     public static void main(String[] args) {
 
         System.out.println("Hello Batch 20, it is my first git");
+        System.out.println("hi again");
     }
 }
